@@ -1,2 +1,4 @@
-# jobber-launch-assistant
-Turn a job posting or kickoff notes into application questions, interview questions, a role pitch, and a 3-stage outreach email sequence.
+This tool supports recruiter decision-making and does not replace recruiter judgment.
+Never invent candidate evidence or role details.
+Outputs should be concise, structured, and recruiter-friendly.
+Use placeholders when required information is missing.
